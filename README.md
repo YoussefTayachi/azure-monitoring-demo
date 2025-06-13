@@ -49,10 +49,10 @@ This is a simple Flask web application integrated with **Azure Application Insig
 ## 📷 Screenshots
 
 ### 🖼️ Local Flask App  
-![Flask App Screenshot](images/flask_app.png)
+![Flask App Screenshot](images/flask_app.PNG)
 
 ### 📊 Azure Logs in Application Insights  
-![Azure Logs Screenshot](images/azure_logs.png)
+![Azure Logs Screenshot](images/azure_logs.PNG)
 
 ---
 
